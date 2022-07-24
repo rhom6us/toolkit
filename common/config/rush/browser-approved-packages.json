@@ -3,7 +3,35 @@
   "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
   "packages": [
     {
+      "name": "@rhom6us/func",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rhom6us/set-immediate",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rhom6us/type-helpers",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rushstack/eslint-config",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rushstack/heft",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rushstack/heft-web-rig",
+      "allowedCategories": [ "production" ]
+    },
+    {
       "name": "my-controls",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "setimmediate",
       "allowedCategories": [ "production" ]
     },
     {

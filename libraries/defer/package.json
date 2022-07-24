@@ -1,0 +1,24 @@
+{
+  "name": "@rhom6us/defer",
+  "version": "1.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhom6us/toolkit.git",
+    "directory": "libraries/defer"
+  },
+  "main": "lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "test": "heft test --clean",
+    "build": "heft build --clean",
+    "build:watch": "heft build"
+  },
+  "keywords": [],
+  "author": "Thomas Butler",
+  "devDependencies": {
+    "@rushstack/heft-web-rig": "latest",
+    "@rushstack/eslint-config": "latest",
+    "@rushstack/heft": "latest"
+  }
+}
