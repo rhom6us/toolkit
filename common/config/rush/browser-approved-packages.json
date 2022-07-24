@@ -27,6 +27,10 @@
       "allowedCategories": [ "production" ]
     },
     {
+      "name": "eslint",
+      "allowedCategories": [ "production" ]
+    },
+    {
       "name": "my-controls",
       "allowedCategories": [ "production" ]
     },

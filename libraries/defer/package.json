@@ -17,8 +17,8 @@
   "keywords": [],
   "author": "Thomas Butler",
   "devDependencies": {
-    "@rushstack/heft-web-rig": "latest",
-    "@rushstack/eslint-config": "latest",
-    "@rushstack/heft": "latest"
+    "@rushstack/heft-web-rig": "^0.10.24",
+    
+    "@rushstack/heft": "^0.46.6"
   }
 }

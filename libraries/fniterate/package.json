@@ -17,10 +17,10 @@
   "keywords": [],
   "author": "Thomas Butler",
   "dependencies": {
-    "@rhom6us/func": "*"
+    "@rhom6us/func": "1.1.0"
   },
   "devDependencies": {
-    "@rushstack/heft-web-rig": "latest",
+    "@rushstack/heft-web-rig": "^0.10.24",
     "@rushstack/eslint-config": "^2.4.5",
     "@rushstack/heft": "^0.42.2"
   }
