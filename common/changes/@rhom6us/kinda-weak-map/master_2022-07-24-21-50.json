@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "comment": "publish",
+      "type": "patch",
+      "packageName": "@rhom6us/kinda-weak-map"
+    }
+  ],
+  "packageName": "@rhom6us/kinda-weak-map",
+  "email": "rhom6us@users.noreply.github.com"
+}

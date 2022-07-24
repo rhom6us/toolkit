@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "comment": "publish",
+      "type": "patch",
+      "packageName": "@rhom6us/case-converter"
+    }
+  ],
+  "packageName": "@rhom6us/case-converter",
+  "email": "rhom6us@users.noreply.github.com"
+}

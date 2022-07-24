@@ -1,6 +1,6 @@
 {
   "name": "@rhom6us/fetch",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "",
   "repository": {
     "type": "git",
@@ -19,8 +19,8 @@
   "keywords": [],
   "author": "Thomas Butler",
   "dependencies": {
-    "@rhom6us/func": "1.1.0",
-    "@rhom6us/type-helpers": "1.1.0"
+    "@rhom6us/func": "2.0.0",
+    "@rhom6us/type-helpers": "2.0.0"
   },
   "devDependencies": {
     "@rushstack/heft-web-rig": "^0.10.24",

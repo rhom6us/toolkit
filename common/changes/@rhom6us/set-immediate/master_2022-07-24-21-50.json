@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "comment": "publish",
+      "type": "patch",
+      "packageName": "@rhom6us/set-immediate"
+    }
+  ],
+  "packageName": "@rhom6us/set-immediate",
+  "email": "rhom6us@users.noreply.github.com"
+}

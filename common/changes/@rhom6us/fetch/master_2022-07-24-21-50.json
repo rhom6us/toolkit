@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "comment": "publish",
+      "type": "patch",
+      "packageName": "@rhom6us/fetch"
+    }
+  ],
+  "packageName": "@rhom6us/fetch",
+  "email": "rhom6us@users.noreply.github.com"
+}

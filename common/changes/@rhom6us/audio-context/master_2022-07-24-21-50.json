@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "comment": "publish",
+      "type": "patch",
+      "packageName": "@rhom6us/audio-context"
+    }
+  ],
+  "packageName": "@rhom6us/audio-context",
+  "email": "rhom6us@users.noreply.github.com"
+}

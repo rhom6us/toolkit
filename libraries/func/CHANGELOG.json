@@ -1,0 +1,17 @@
+{
+  "name": "@rhom6us/func",
+  "entries": [
+    {
+      "version": "2.0.0",
+      "tag": "@rhom6us/func_v2.0.0",
+      "date": "Sun, 24 Jul 2022 21:32:07 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "init"
+          }
+        ]
+      }
+    }
+  ]
+}

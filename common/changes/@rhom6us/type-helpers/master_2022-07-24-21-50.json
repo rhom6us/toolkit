@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "comment": "publish",
+      "type": "patch",
+      "packageName": "@rhom6us/type-helpers"
+    }
+  ],
+  "packageName": "@rhom6us/type-helpers",
+  "email": "rhom6us@users.noreply.github.com"
+}
